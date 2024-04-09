@@ -41,7 +41,7 @@ disableTextInHeader = false
   showRecentItems = 10
   showMoreLink = true
   showMoreLinkDest = "/posts"
-  cardView = true
+  cardView = false
   cardViewScreenWidth = false
   layoutBackgroundBlur = false # only used when layout equals background
 
