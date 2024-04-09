@@ -64,4 +64,4 @@ buildFuture = false
       type = 'fragments'
       weight = 10
 [homepage]
-  showRecent = true
+  showRecent = false

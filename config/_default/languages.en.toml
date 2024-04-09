@@ -1,20 +1,20 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "idea小时"
+title = "William"
 
 [params]
   displayName = "EN"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-   logo = "img/logo.jpg"
+#   logo = "img/logo.jpg"
   # secondaryLogo = "img/secondary-logo.png"
    description = "My awesome website"
    copyright = "Copy, _right?_ :thinking_face:"
 
  [author]
-   name = "idea小时"
+   name = "William"
    image = "img/logo.jpg"
    headline = "种一棵树最好的时间是十年前，其次是现在。"
    bio = "A little bit about you"
