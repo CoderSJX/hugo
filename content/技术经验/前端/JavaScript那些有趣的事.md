@@ -1,4 +1,5 @@
 ---
+title: "JavaScript那些有趣的事"
 date: 2022-03-17
 categories:
  - 编程之路

@@ -1,4 +1,5 @@
 ---
+title: "深入理解JavaScript代理"
 date: 2022-04-11
 categories:
  - 编程之路
@@ -399,4 +400,3 @@ proxy.getDate(); // TypeError: 'this' is not a Date object
    // Jacob 
    ```
 
-   

@@ -1,4 +1,5 @@
 ---
+title: "MySQL数据库日志解析"
 date: 2022-02-24
 categories:
  - 编程之路
